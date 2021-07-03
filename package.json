@@ -65,7 +65,7 @@
     "chalk": "^1.0.0",
     "commander": "^2.7.1",
     "debug": "^2.1.3",
-    "event-stream": "3.3.4",
+    "event-stream": "3.3.5",
     "folderify": "^0.7.0",
     "form-data": "^0.2.0",
     "har-validator-fsless": "1.6.6",
